@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Ahire</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **A Web-based Data Visualization Display System**
+- 🔭 I’m currently working on **CRM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
